@@ -31,13 +31,13 @@
 - The program successfully run `./UnixLs -R ~/`.
 
   Output based on csil: output_ls_R_~.txt, not included in the zip file.
-- The program successfully run "./UnixLs -l".
+- The program successfully run `./UnixLs -l`.
 
   Output based on csil: output_ls_l.txt.
-- The program successfully run "./UnixLs -Ri -l .. ~".
+- The program successfully run `./UnixLs -Ri -l .. ~`.
 
   Output based on csil: output_ls_Ri_l.txt, not included in the zip file.
-- The program successfully run "./UnixLs -liR . .. ~".
+- The program successfully run `./UnixLs -liR . .. ~`.
 
 ## License
 
