@@ -1,0 +1,10 @@
+-rwxr-xr-x 1  zeyongj domain users 172       Aug 7  2021 20:34  Makefile
+-rwxr-xr-x 1  zeyongj domain users 1646      Aug 8  2021 00:17  README.md
+-rwxr-xr-x 1  zeyongj domain users 22384     Aug 8  2021 02:42  UnixLs
+-rwxr-xr-x 1  zeyongj domain users 9973      Aug 8  2021 00:41  UnixLs.c
+-rwxr-xr-x 1  zeyongj domain users 10088     Aug 8  2021 02:42  UnixLs.o
+-rwxr-xr-x 1  zeyongj domain users 154       Aug 8  2021 02:42  output_ls.txt
+-rwxr-xr-x 1  zeyongj domain users 239       Aug 7  2021 23:42  output_ls_R.txt
+-rwxr-xr-x 1  zeyongj domain users 226       Aug 8  2021 02:43  output_ls_i.txt
+-rwxr-xr-x 1  zeyongj domain users 0         Aug 8  2021 02:43  output_ls_l.txt
+
